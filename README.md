@@ -1,10 +1,10 @@
 ### The project is "Todo List Application" and is mainly implemented in following languages:
 
-##### HTML
-##### CSS
-##### JavaScript
-##### Bootstrap
-##### JQuery
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* JQuery
 
 #### Functionalities:
 * You can add a New Item in the List by clicking on '+' Sign.
